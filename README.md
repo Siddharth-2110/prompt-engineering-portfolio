@@ -126,7 +126,6 @@ Create step-by-step documentation for deploying a Dockerized app using Jenkins a
 
 * ChatGPT / LLM tools
 * GitHub
-* Markdown
 
 ---
 
